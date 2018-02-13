@@ -2,6 +2,8 @@
 
 Autor: Lucas Alves
 
+OBS: Esse é meu primeiro projeto mais """"""""""""""""""sério""""""""""""""""""
+
 Iniciado em: 12/Fev/2018
 
 Em andamento
