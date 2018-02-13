@@ -1,5 +1,5 @@
-# Trabalho-de-Portugues
-#Autor: Lucas Alves
+#Trabalho de Português
+Autor: Lucas Alves
 Iniciado em: 12/Fev/2018
 Em andamento
 
