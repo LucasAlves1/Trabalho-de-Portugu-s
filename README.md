@@ -11,3 +11,5 @@ Ainda não foi definido o tema, mas eu decidi já preparar o solo pro que vai vi
 Em breve eu vou encher isso aqui com códigos que eu espero possam ser úteis para outras pessoas
 
 Interface gráfica = Kivy
+
+O código deve ser rodado usando o python3.5 
