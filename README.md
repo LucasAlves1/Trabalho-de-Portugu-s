@@ -1,7 +1,9 @@
 #Trabalho-de-Portugues
 
 Autor: Lucas Alves
+
 Iniciado em: 12/Fev/2018
+
 Em andamento
 
 O projeto se trata de um game educacional feito em python3.
